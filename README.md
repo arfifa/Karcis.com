@@ -15,7 +15,7 @@ karcis.com is a clone app from tiket.com
 
 ## Development
 1. Open your terminal or command prompt
-2. Type `git clone https://github.com/mraffiramdhani/karcis-com-frontend.git`
+2. Type `git clone https://github.com/arfifa/Karcis.com.git`
 3. Open the folder and type `yarn install` to install all the necessary dependencies
 4. Type `react-native link` to link all the dependencies to the project
 5. Type `react-native run-android` to run the app.
