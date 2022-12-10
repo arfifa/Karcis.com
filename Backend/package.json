@@ -25,7 +25,7 @@
     "nodemailer": "^6.4.2",
     "onesignal-node": "^3.0.0",
     "path": "^0.12.7",
-    "qs": "^6.9.1",
+    "qs": "^6.9.7",
     "redis": "^2.8.0",
     "redis-server": "^1.2.2",
     "response-time": "^2.3.2"
